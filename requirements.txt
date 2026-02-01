@@ -1,0 +1,8 @@
+rocketpy
+pandas
+numpy
+matplotlib
+scipy
+notebook
+ipykernel
+scikit-learn
